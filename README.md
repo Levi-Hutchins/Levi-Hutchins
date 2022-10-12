@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levi-Hutchins
 - 👀 I’m interested in all things Computer Science
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently studying Computer Science majoring in Cyber Security
 - 💞️ I’m looking to publish my projects relating to computer security 
 
 <!---
