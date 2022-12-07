@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Page..&hearts;++;I+am+a+second+year+Computer+Science+Student,;University+of+Newcastle,;Love+all+thing+computer+science,;Looking+to+publish+my+related+projects"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Page..&hearts;++;A+second+year+Computer+Science+Student,;University+of+Newcastle,;Love+all+thing+computer+science,;Looking+to+publish+my+related+projects :)"></a>
 </p>
 
 
