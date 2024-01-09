@@ -20,6 +20,7 @@
 - A passionate Computer Science Student
 - Always Looking to Extend My Knowledge
 - Developing Cyber Security Tools
+- Exploring Machine Learning
 
 
 <br><br>
