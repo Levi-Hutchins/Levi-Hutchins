@@ -16,11 +16,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Computer Science Student
-- Always Looking to Extend My Knowledge
-- Developing Cyber Security Tools
-- Exploring Machine Learning
+Backend Frameworks
+  - Flask
+  - FastAPI
 
 
 <br><br>
