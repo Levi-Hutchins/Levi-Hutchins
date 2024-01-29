@@ -17,8 +17,8 @@
 
 <br>
 Backend Frameworks
-  - Flask
-  - FastAPI
+- Flask
+
 
 
 <br><br>
