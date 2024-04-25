@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levi Hutchins</h1>
 <h3 align="center">Final Year Computer Science Student</h3>
 
-- 🔭 I’m currently working on [PhishFinder](https://github.com/Levi-Hutchins/PhishFinder)
+- 🔭 Currently working on [PhishFinder](https://github.com/Levi-Hutchins/PhishFinder)
 
 - 🌱 I’m currently learning **Backend, Frontend, Machine Learning, Cyber Security** technologies
 
